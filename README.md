@@ -1,4 +1,4 @@
-<img src="https://giphy.com" width="220" alt="Patrick waving gif">
+![coding gif](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
 
 I am building **random freehand projects** aimed at developing an impressive physique while listening to music.
 
