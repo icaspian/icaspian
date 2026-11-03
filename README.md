@@ -16,6 +16,7 @@ Passionate about building **secure, automated, and highly resilient** internal s
 
 I work across several languages and platforms, choosing the tools that fit each project. These badges reflect technologies used across my public repositories.
 
+
 ## Languages
 
 ![Python](https://img.shields.io/badge/-Python%203.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)
