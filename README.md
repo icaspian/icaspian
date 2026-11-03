@@ -8,7 +8,7 @@ Passionate about building **secure, automated, and highly resilient** internal s
 
 # Stack
 
-I write mostly Python, but the projects split across a few languages depending on what the target platform actually needs. Below is what's used where — languages, libraries, and the tooling around them.
+I work across several languages and platforms, choosing the tools that fit each project. These badges reflect technologies used across my public repositories.
 
 ## Languages
 
@@ -18,7 +18,12 @@ I write mostly Python, but the projects split across a few languages depending o
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua%205.4-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Batch](https://img.shields.io/badge/-Windows%20Batch-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![YAML](https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
 
@@ -38,6 +43,9 @@ I write mostly Python, but the projects split across a few languages depending o
 ![Requests](https://img.shields.io/badge/-Requests-2CA5E0?style=flat-square&logo=python&logoColor=white)
 ![Pillow](https://img.shields.io/badge/-Pillow-3776AB?style=flat-square&logo=python&logoColor=white)
 
+### JavaScript / Node.js
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
 ### C# / .NET
 ![WPF](https://img.shields.io/badge/-WPF-512BD4?style=flat-square&logo=windows&logoColor=white)
 ![.NET 8](https://img.shields.io/badge/-.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -48,3 +56,15 @@ I write mostly Python, but the projects split across a few languages depending o
 
 ### Lua
 ![Lua 5.4](https://img.shields.io/badge/-Lua%205.4-2C2D72?style=flat-square&logo=lua&logoColor=white)
+
+---
+
+## Databases & Infrastructure
+
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![systemd](https://img.shields.io/badge/-systemd-000000?style=flat-square&logo=linux&logoColor=white)
