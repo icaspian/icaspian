@@ -1,4 +1,4 @@
-![coding gif](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 I am kaito 17-years old, building **random freehand projects** aimed at developing an impressive physique while listening to music.
 
