@@ -6,6 +6,12 @@ I'm making <mark>FLOSS</mark> that is safe to use (Permissive): `Code licensed u
 
 Passionate about building **secure, automated, and highly resilient** internal systems.
 
+## Socials
+
+[![X](https://img.shields.io/badge/X-%40icaspian-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/icaspian)
+[![Instagram](https://img.shields.io/badge/Instagram-%40icaspian_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/icaspian_/)
+[![Discord](https://img.shields.io/badge/Discord-icaspian-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1509850988788322304)
+
 # Stack
 
 I work across several languages and platforms, choosing the tools that fit each project. These badges reflect technologies used across my public repositories.
