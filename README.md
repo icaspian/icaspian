@@ -1,6 +1,6 @@
 ![coding gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-I am kaito 17-years old, building **random freehand projects** aimed at developing an impressive physique while listening to music.
+I am Reyansh chauhan 17-years old, building **random freehand projects** aimed at developing an impressive physique while listening to music.
 
 I'm making <mark>FLOSS</mark> that is safe to use (Permissive): `Code licensed under.`
 
