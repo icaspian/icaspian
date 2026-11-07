@@ -8,8 +8,8 @@ Passionate about building **secure, automated, and highly resilient** internal s
 
 ## Socials
 
-[![X](https://img.shields.io/badge/X-%40icaspian-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/icaspian)
-[![Instagram](https://img.shields.io/badge/Instagram-%40icaspian_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/icaspian_/)
+[![X](https://img.shields.io/badge/X-%40icaspian-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/reyanshx_)
+[![Instagram](https://img.shields.io/badge/Instagram-%40icaspian_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/reyansh.rww)
 [![Discord](https://img.shields.io/badge/Discord-icaspian-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1509850988788322304)
 
 # Stack
